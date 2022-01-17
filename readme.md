@@ -2,7 +2,7 @@
 
 1. [Time tracking dashboard](https://github.com/GuirecTalmo/time-tracking-dashboard)
      - HTML/EJS - CSS - JS
-    - [GitHub Repository](https://github.com/GuirecTalmo/time-tracking-dashboard/tree/main/public)
+    - [GitHub Repository](https://github.com/GuirecTalmo/time-tracking-dashboard/)
     <details>
-    <img src="./design/desktop-design.jpg"/>
+    <img src="https://github.com/GuirecTalmo/time-tracking-dashboard/tree/main/public/design/desktop-design.jpg"/>
     </details>
