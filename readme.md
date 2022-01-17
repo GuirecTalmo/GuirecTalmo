@@ -1,7 +1,7 @@
 ## Personal Projects
 
 1. [Project LoL]
-     - HTML - CSS
+     - HTML - CSS - JS
     - [GitHub Repository](https://github.com/GuirecTalmo/Project-LoL)
     <details>
     <img src="https://github.com/GuirecTalmo/Project-LoL/blob/main/images/lol-monsters-front.png?raw=true">
