@@ -1,4 +1,4 @@
-## Personnal projects
+## Personal Projects
 
 1. [Project LoL]
      - HTML - CSS
