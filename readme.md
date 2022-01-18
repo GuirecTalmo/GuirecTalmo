@@ -17,7 +17,7 @@
     </details>
 
 2. [Tip calculator app challenge]
-     - HTML/EJS - CSS - JS
+     - HTML - CSS - JS
     - [GitHub Repository](https://github.com/GuirecTalmo/PO-Calculator)
     <details>
     <img src="https://github.com/GuirecTalmo/PO-Calculator/raw/main/design/desktop-preview.jpg">
