@@ -10,7 +10,7 @@
 ## Front End Mentor Challenges
 
 1. [Time tracking dashboard]
-     - HTML/EJS - CSS - JS
+     - HTML/EJS - CSS - JS - Nodejs
     - [GitHub Repository](https://github.com/GuirecTalmo/time-tracking-dashboard/)
     <details>
     <img src="https://github.com/GuirecTalmo/time-tracking-dashboard/blob/main/public/design/desktop-design.jpg?raw=true">
