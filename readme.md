@@ -16,7 +16,7 @@
     <img src="https://github.com/GuirecTalmo/time-tracking-dashboard/blob/main/public/design/desktop-design.jpg?raw=true">
     </details>
 
-2. [Tip calculator app challenge]
+2. [Tip calculator app challenge](https://guirectalmo.github.io/PO-Calculator/)
      - HTML - CSS - JS
     - [GitHub Repository](https://github.com/GuirecTalmo/PO-Calculator)
     <details>
