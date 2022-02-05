@@ -1,10 +1,7 @@
 ## Personal Projects
 
 1. [Project LoL]
-     - HTML - CSS - JS
-    - [GitHub Repository](https://github.com/GuirecTalmo/Project-LoL)
-    <details>
-    <img src="https://github.com/GuirecTalmo/Project-LoL/blob/main/images/lol-monsters-front.png?raw=true">
+     - Work in progress
     </details>
 
 ## Front End Mentor Challenges
@@ -22,3 +19,14 @@
     <details>
     <img src="https://github.com/GuirecTalmo/PO-Calculator/raw/main/design/desktop-preview.jpg">
     </details>
+    
+3. [NFT preview card component](https://guirectalmo.github.io/NFT-preview-card-component/)
+     - HTML (Bootstrap) - CSS - JS
+    - [GitHub Repository](https://github.com/GuirecTalmo/NFT-preview-card-component)
+    <details>
+    <img src="https://github.com/GuirecTalmo/NFT-preview-card-component/raw/main/design/desktop-preview.jpg">
+    </details>
+
+
+
+
