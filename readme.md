@@ -10,7 +10,7 @@
      - HTML/EJS - CSS - JS - Nodejs
     - [GitHub Repository](https://github.com/GuirecTalmo/Time-tracking-dashboardV2/)
     <details>
-    <img src="https://github.com/GuirecTalmo/time-tracking-dashboardV2/blob/main/public/design/desktop-design.jpg?raw=true">
+    <img src="https://github.com/GuirecTalmo/Time-tracking-dashboardV2/blob/master/design/desktop-preview.jpg?raw=true">
     </details>
 
 2. [Tip calculator app challenge](https://guirectalmo.github.io/PO-Calculator/)
