@@ -6,11 +6,11 @@
 
 ## Front End Mentor Challenges
 
-1. [Time tracking dashboard](https://guirectalmo.github.io/Time-tracking-dashboardV2/)
+1. [Time tracking dashboard](https://guirectalmo.github.io/Time-tracking-dashboard/)
      - HTML - CSS - JS
-    - [GitHub Repository](https://github.com/GuirecTalmo/Time-tracking-dashboardV2/)
+    - [GitHub Repository](https://github.com/GuirecTalmo/Time-tracking-dashboard/)
     <details>
-    <img src="https://github.com/GuirecTalmo/Time-tracking-dashboardV2/blob/master/design/desktop-preview.jpg?raw=true">
+    <img src="https://github.com/GuirecTalmo/Time-tracking-dashboard/blob/master/design/desktop-preview.jpg?raw=true">
     </details>
 
 2. [Tip calculator app challenge](https://guirectalmo.github.io/PO-Calculator/)
