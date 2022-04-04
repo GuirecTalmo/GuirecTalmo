@@ -35,7 +35,7 @@
     </details>
 
 5. [Social-media-dashboard-theme-switcher](https://guirectalmo.github.io/Social-media-dashboard-theme-switcher/)
-     - HTML (Bootstrap) - CSS - JS
+     - HTML - CSS - JS
     - [GitHub Repository](https://github.com/GuirecTalmo/Social-media-dashboard-theme-switcher)
     <details>
     <img src="https://github.com/GuirecTalmo/Social-media-dashboard-theme-switcher/raw/main/design/desktop-preview.jpg">
