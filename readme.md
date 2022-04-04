@@ -1,9 +1,3 @@
-## Personal Projects
-
-1. [Project LoL]
-     - Work in progress
-    </details>
-
 ## Front End Mentor Challenges
 
 1. [Time tracking dashboard](https://guirectalmo.github.io/Time-tracking-dashboard/)
