@@ -23,7 +23,7 @@
     
 4. [Crowdfunding-product-page](https://guirectalmo.github.io/Crowdfunding-product-page/)
      - HTML (Bootstrap) - CSS - JS
-    - [GitHub Repository](https://github.com/GuirecTalmo/Crowdfunding-product-page)
+    - [GitHub Repository](https://github.com/AllanBoodhun/crowdfunding-react)
     <details>
     <img src="https://github.com/GuirecTalmo/Crowdfunding-product-page/raw/main/design/desktop-preview.jpg">
     </details>
