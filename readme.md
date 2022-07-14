@@ -4,7 +4,14 @@
      - React - SCSS - Nodejs
     - [GitHub Repository](https://github.com/GuirecTalmo/Ofood)
     <details>
-    MVP d'une application aidant au rééquilibrage alimentaire sous React et Node.
+    MVP of an application to help with food rebalancing under React and Node.
+    </details>
+    
+ 2. [Github search app](https://github.com/GuirecTalmo/GitHub-user-search-app/)
+     - React - SCSS
+    - [GitHub Repository](https://github.com/GuirecTalmo/GitHub-user-search-app/)
+    <details>
+    Application to simply search for a Github user and practice on React.
     </details>
 
 ## Front End Mentor Challenges
