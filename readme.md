@@ -30,7 +30,7 @@
     <img src="https://github.com/GuirecTalmo/NFT-preview-card-component/raw/main/design/desktop-preview.jpg">
     </details>
     
-4. [Crowdfunding-product-page](https://guirectalmo.github.io/Crowdfunding-product-page/)
+4. [Crowdfunding-product-page](https://github.com/AllanBoodhun/crowdfunding-react)
      - HTML (Bootstrap) - CSS - JS
     - [GitHub Repository](https://github.com/AllanBoodhun/crowdfunding-react)
     <details>
