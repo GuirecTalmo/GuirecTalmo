@@ -7,14 +7,14 @@
     MVP of an application to help with food rebalancing under React and Node.
     </details>
     
-1.1 [O'food - V2](https://ofood-orcin.vercel.app/)
-     - NextJS - SCSS - NextAuth
+2. [O'food - V2](https://ofood-orcin.vercel.app/)
+     - NextJS - SCSS - NextAuth.JS
     - [GitHub Repository](https://github.com/GuirecTalmo/ofood-nextjs)
     <details>
     An improved version. Work in progress.
     </details>
     
- 2. [Github search app](https://github-search-navy.vercel.app/)
+ 3. [Github search app](https://github-search-navy.vercel.app/)
      - React - SCSS
     - [GitHub Repository](https://github.com/GuirecTalmo/github-search)
     <details>
