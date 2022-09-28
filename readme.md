@@ -20,6 +20,13 @@
     <details>
     Application to simply search for a Github user and practice on React.
     </details>
+    
+   4. [Todo list](#)
+     - HTML - CSS - JS
+    - [GitHub Repository](https://github.com/GuirecTalmo/todoJS)
+    <details>
+    A todo list to practice with the datas in localStorage.
+    </details>
 
 ## Front End Mentor Challenges
 
