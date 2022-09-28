@@ -22,7 +22,7 @@
     </details>
     
    4. [Todo list](#)
-     - HTML - CSS - JS
+    - HTML - CSS - JS
     - [GitHub Repository](https://github.com/GuirecTalmo/todoJS)
     <details>
     A todo list to practice with the datas in localStorage.
