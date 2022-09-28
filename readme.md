@@ -22,10 +22,10 @@
     </details>
     
    4. [Todo list](https://guirectalmo.github.io/todoJS/)
-     - HTML - CSS - JS
+         - HTML - CSS - JS
     - [GitHub Repository](https://github.com/GuirecTalmo/todoJS)
     <details>
-    A todo list to practice with the datas in localStorage.
+    Application to practice with the localStorage.
     </details>
 
 ## Front End Mentor Challenges
