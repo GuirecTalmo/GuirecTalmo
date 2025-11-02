@@ -39,7 +39,7 @@ Application de quiz basé sur codingame !
 
 **Liens :**
 
-- 🔗 [GitHub Repository](https://github.com/GuirecTalmo/codinquest)
+A venir
 
 ---
 
@@ -53,7 +53,7 @@ Application sportive en cours de développement.
 
 **Liens :**
 
-- 🔗 [GitHub Repository](https://github.com/GuirecTalmo/Monkey-run)
+A venir
 
 ---
 
@@ -95,4 +95,4 @@ Portfolio
 - **Git** - Version control
 - **Vite** - Build tool rapide
 
-\_Dernière mise à jour : 2025_11_02
+Dernière mise à jour : 2025_11_02
