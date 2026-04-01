@@ -4,7 +4,7 @@ Bienvenue dans mon portfolio GitHub ! Ce dépôt regroupe mes différents projet
 
 ## 📁 Projets
 
-### 1. O'food 🍎
+### 1. O'food 
 
 **Technologies :** React, SCSS, Node.js, Docker, PostgreSQL
 
@@ -15,22 +15,10 @@ MVP d'une application complète pour aider à la rééquilibration alimentaire. 
 
 - 🔗 [GitHub Repository](https://github.com/GuirecTalmo/Ofood)
 
----
-
-### 2. API-Ofood 🚀
-
-**Technologies :** Node.js, Express, PostgreSQL, Prisma
-
-**Description :**  
-API REST séparée pour l'application O'food. Backend avec gestion complète des utilisateurs, repas, recettes et régimes alimentaires spécifiques.
-
-**Liens :**
-
-- 🔗 [GitHub Repository](https://github.com/GuirecTalmo/API-Ofood)
 
 ---
 
-### 3. CodeInQuest 🎯
+### 3. CodeInQuest
 
 **Technologies :** Next.js 16, TypeScript, Prisma, PostgreSQL, NextAuth.js, Tailwind CSS, Zod
 
@@ -43,7 +31,7 @@ A venir
 
 ---
 
-### 4. Monkey-run 🏃
+### 4. Monkey-run
 
 **Technologies :** React Native, NestJS, TypeScript, Prisma, PostgreSQL, Tamagui, JWT
 
@@ -57,21 +45,7 @@ A venir
 
 ---
 
-### 5. Portfolio 🎨
-
-**Technologies :** React 19, TypeScript, Vite, Tailwind CSS, Framer Motion, React Router
-
-**Description :**  
-Portfolio
-
-**Liens :**
-
-- 🔗 [GitHub Repository](https://github.com/GuirecTalmo/Portfolio)
-- 🌐 [Site Web](https://guirectalmo.io)
-
----
-
-## 🛠️ Stack Technologique
+## Stack Technologique
 
 ### Frontend
 
@@ -79,7 +53,6 @@ Portfolio
 - **TypeScript** - Typage statique
 - **Tailwind CSS** / **SCSS** - Styling
 - **React Native** - Applications mobiles
-- **Framer Motion** - Animations
 
 ### Backend
 
@@ -87,7 +60,6 @@ Portfolio
 - **NestJS** - Framework Node.js
 - **PostgreSQL** - Base de données
 - **Prisma** - ORM
-- **JWT** / **NextAuth.js** - Authentification
 
 ### DevOps & Outils
 
@@ -95,4 +67,4 @@ Portfolio
 - **Git** - Version control
 - **Vite** - Build tool rapide
 
-Dernière mise à jour : 2025_11_02
+Dernière mise à jour : 2026_04_01
